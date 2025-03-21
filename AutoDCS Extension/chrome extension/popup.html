@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>필터 기간 설정</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      width: 250px;
+      padding: 10px;
+    }
+    .slider-container {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .slider-container input[type="range"] {
+      flex: 1;
+      margin-right: 10px;
+    }
+    .slider-value {
+      width: 60px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h2>필터 기간 설정</h2>
+  <div class="slider-container">
+    <input type="range" id="filterSlider" min="1" max="180" value="7">
+    <input type="text" id="filterValue" class="slider-value" value="7">
+  </div>
+  <p>최소: 1일, 최대: 180일</p>
+  <button id="saveButton">저장</button>
+  <!-- 저장 버튼 옆에 체크 이모티콘 추가 (초기에는 숨김) -->
+  <span id="checkMark" style="display:none; font-size: 20px; margin-left: 10px;">✔️</span>
+  <script src="popup.js"></script>
+</body>
+</html>
