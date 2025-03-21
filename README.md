@@ -8,4 +8,5 @@ https://pf.kakao.com/_eBhXn?from=qr
 https://github.com/chisung42/AutoDCS/blob/99eb7c586b19688ed8e61e392b104bc3fafa2963/AutoDCS%20Extension/autoDCS.zip
 
 실제 작동 화면
-![IMG_1976](https://github.com/user-attachments/assets/f3dd7cec-2a58-4e89-9a95-cf15fad763a3)
+
+![IMG_1977](https://github.com/user-attachments/assets/85c804bc-2dd8-4e6f-a269-b9e95df30129)
