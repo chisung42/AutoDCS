@@ -9,6 +9,15 @@ https://github.com/chisung42/AutoDCS/blob/99eb7c586b19688ed8e61e392b104bc3fafa29
 
 
 
-실제 작동 화면
+#실제 작동 화면
+![Screenshot 2025-03-22 12 12 20](https://github.com/user-attachments/assets/cfa16b47-f26b-48e3-af4a-7023858d3769)
 
-![IMG_1977](https://github.com/user-attachments/assets/85c804bc-2dd8-4e6f-a269-b9e95df30129)
+
+#크롬 확장 프로그램 다운로드 방법
+
+확장프로그램 관리에 접속합니다.
+<img width="2056" alt="스크린샷 2025-03-22 13 07 11" src="https://github.com/user-attachments/assets/2c855e78-ea06-4fc7-8e3f-1fda767f544b" />
+개발자 모드를 켜주시고 압축해제된 확장프로그램을 로드합니다 버튼을 누르고
+<img width="2056" alt="스크린샷 2025-03-22 13 08 12" src="https://github.com/user-attachments/assets/5454468e-aa3e-4996-ae03-14c24ff73712" />
+위에서 다운받고 압축을 푼 폴더를 로드합니다
+<img width="2056" alt="스크린샷 2025-03-22 13 10 20" src="https://github.com/user-attachments/assets/4daa916a-8195-48ba-b908-32a1f0c151eb" />
