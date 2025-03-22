@@ -15,7 +15,7 @@ https://github.com/chisung42/AutoDCS/blob/99eb7c586b19688ed8e61e392b104bc3fafa29
 <img width="300" height="600" alt="스크린샷 2025-03-22 13 07 14" src="https://github.com/user-attachments/assets/cfa16b47-f26b-48e3-af4a-7023858d3769" />
 
 
-#크롬 확장 프로그램 다운로드 방법
+#크롬 확장 프로그램 설치 방법
 
 확장프로그램 관리에 접속합니다.
 <img width="2056" alt="스크린샷 2025-03-22 13 07 11" src="https://github.com/user-attachments/assets/2c855e78-ea06-4fc7-8e3f-1fda767f544b" />
