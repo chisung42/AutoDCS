@@ -10,7 +10,9 @@ https://github.com/chisung42/AutoDCS/blob/99eb7c586b19688ed8e61e392b104bc3fafa29
 
 
 #실제 작동 화면
-<img width="200" height="400" alt="스크린샷 2025-03-22 13 07 14" src="https://github.com/user-attachments/assets/cfa16b47-f26b-48e3-af4a-7023858d3769" />
+
+
+<img width="300" height="600" alt="스크린샷 2025-03-22 13 07 14" src="https://github.com/user-attachments/assets/cfa16b47-f26b-48e3-af4a-7023858d3769" />
 
 
 #크롬 확장 프로그램 다운로드 방법
