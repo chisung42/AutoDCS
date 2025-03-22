@@ -23,3 +23,6 @@ https://github.com/chisung42/AutoDCS/blob/99eb7c586b19688ed8e61e392b104bc3fafa29
 <img width="2056" alt="스크린샷 2025-03-22 13 08 12" src="https://github.com/user-attachments/assets/5454468e-aa3e-4996-ae03-14c24ff73712" />
 위에서 다운받고 압축을 푼 폴더를 로드합니다
 <img width="2056" alt="스크린샷 2025-03-22 13 10 20" src="https://github.com/user-attachments/assets/4daa916a-8195-48ba-b908-32a1f0c151eb" />
+
+확장프로그램을 클릭하여 필터 기간을 설정할 수 있습니다. 예)7일이면 오늘부터 마감기한이 7일 이내의 항목들만 표시합니다.
+<img width="2056" alt="스크린샷 2025-03-22 13 21 41" src="https://github.com/user-attachments/assets/da53e1e9-9366-49a3-aa82-e5ff3d964d99" />
