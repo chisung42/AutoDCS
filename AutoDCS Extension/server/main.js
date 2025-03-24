@@ -5,7 +5,7 @@ const path = require('path');
 const crypto = require('crypto');
 
 const app = express();
-const port = process.env.PORT || 9316; // 내부 포트 9316 사용
+const port = process.env.PORT || 0000; // 내부 포트 9316 사용
 
 app.use(cors({
   origin: '*',
