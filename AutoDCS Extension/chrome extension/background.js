@@ -157,7 +157,7 @@ chrome.webNavigation.onCompleted.addListener((details) => {
             });
           } else {
             // 변경 사항이 있으면 서버에 전송
-            fetch("http://autodcs.kro.kr:9943/store", {
+            fet", {
               method: "POST",
               mode: "cors",
               headers: {
